@@ -1,0 +1,30 @@
+# Core FastAPI (flexible versions)
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Pydantic (allow newer versions with pre-built wheels)
+pydantic>=2.5
+pydantic-settings>=2.0
+
+# Database MySQL
+sqlalchemy>=2.0
+pymysql>=1.1
+cryptography>=41.0
+alembic>=1.13
+
+# Data Processing
+pandas>=2.0
+numpy>=1.24
+
+# Utilities
+python-dotenv>=1.0
+python-multipart>=0.0.6
+
+# Testing
+pytest>=7.4
+httpx>=0.26
+
+# Notes:
+# - Using >= instead of == for better compatibility
+# - Will automatically get pre-built wheels when available
+# - Compatible with Python 3.10, 3.11, 3.12, 3.13, 3.14

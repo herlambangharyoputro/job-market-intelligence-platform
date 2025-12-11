@@ -1,21 +1,24 @@
 from pydantic_settings import BaseSettings
-from typing import List
+from typing import List, Optional
 from functools import lru_cache
 
-
 class Settings(BaseSettings):
-    """Application settings"""
-    
-    # App Settings
-    APP_NAME: str = "Job Listings NLP API"
+    APP_NAME: str = "Job Market Intelligence Platform API"
     APP_VERSION: str = "1.0.0"
     DEBUG: bool = True
     
-    # Database
+    # Database - Main URL
     DATABASE_URL: str
     DATABASE_ECHO: bool = False
     
-    # API
+    # Database - Optional separate components (tidak wajib)
+    DB_USER: Optional[str] = None
+    DB_PASSWORD: Optional[str] = None
+    DB_HOST: Optional[str] = None
+    DB_PORT: Optional[int] = None
+    DB_NAME: Optional[str] = None
+    
+    # API Settings
     API_V1_PREFIX: str = "/api/v1"
     BACKEND_CORS_ORIGINS: List[str] = ["http://localhost:3000"]
     
@@ -37,12 +40,10 @@ class Settings(BaseSettings):
     class Config:
         env_file = ".env"
         case_sensitive = True
-
+        extra = "ignore"  # Ignore extra fields in .env
 
 @lru_cache()
 def get_settings() -> Settings:
-    """Get cached settings instance"""
     return Settings()
-
 
 settings = get_settings()
