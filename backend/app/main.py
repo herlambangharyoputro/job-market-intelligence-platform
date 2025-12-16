@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings 
-from app.api.v1.endpoints import jobs, job_listings, analytics
+from app.api.v1.endpoints import jobs, job_listings, analytics, validation, skills_dictionary, skill_categories
 
 app = FastAPI(
     title=settings.APP_NAME,
@@ -46,3 +46,21 @@ app.include_router(
     tags=["Analytics"]
 )
   
+  # Register routers (after existing routers)
+app.include_router(
+    validation.router,
+    prefix=f"{settings.API_V1_PREFIX}/validation",
+    tags=["Validation"]
+)
+
+app.include_router(
+    skills_dictionary.router,
+    prefix=f"{settings.API_V1_PREFIX}/skills",
+    tags=["Skills Dictionary"]
+)
+
+app.include_router(
+    skill_categories.router,
+    prefix=f"{settings.API_V1_PREFIX}/categories",
+    tags=["Categories"]
+)
