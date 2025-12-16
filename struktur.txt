@@ -1,0 +1,171 @@
+job-market-intelligence-platform/
+│
+├── backend/                          # FastAPI Backend
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── main.py                   # Entry point FastAPI
+│   │   ├── config.py                 # Konfigurasi (database, env vars)
+│   │   │
+│   │   ├── api/                      # API Routes
+│   │   │   ├── __init__.py
+│   │   │   ├── v1/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── endpoints/
+│   │   │   │   │   ├── __init__.py
+│   │   │   │   │   ├── jobs.py       # CRUD lowongan
+│   │   │   │   │   ├── analytics.py  # Endpoint analisis
+│   │   │   │   │   ├── nlp.py        # Endpoint NLP processing
+│   │   │   │   │   └── search.py     # Search & filtering
+│   │   │
+│   │   ├── models/                   # SQLAlchemy Models
+│   │   │   ├── __init__.py
+│   │   │   ├── job.py
+│   │   │   ├── company.py
+│   │   │   └── analysis_result.py
+│   │   │
+│   │   ├── schemas/                  # Pydantic Schemas
+│   │   │   ├── __init__.py
+│   │   │   ├── job.py
+│   │   │   ├── analytics.py
+│   │   │   └── nlp.py
+│   │   │
+│   │   ├── services/                 # Business Logic
+│   │   │   ├── __init__.py
+│   │   │   ├── preprocessing/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── text_cleaner.py   # Cleaning text
+│   │   │   │   ├── tokenizer.py      # Tokenization
+│   │   │   │   ├── normalizer.py     # Normalization
+│   │   │   │   └── feature_extractor.py
+│   │   │   │
+│   │   │   ├── nlp/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── sentiment_analysis.py
+│   │   │   │   ├── keyword_extraction.py
+│   │   │   │   ├── skill_extraction.py
+│   │   │   │   ├── entity_recognition.py  # NER untuk lokasi, perusahaan, dll
+│   │   │   │   ├── text_classification.py # Klasifikasi job category
+│   │   │   │   └── similarity.py          # Job similarity
+│   │   │   │
+│   │   │   ├── analytics/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── trend_analysis.py      # Analisis tren pekerjaan
+│   │   │   │   ├── salary_analysis.py     # Analisis gaji
+│   │   │   │   ├── skill_demand.py        # Demand skills
+│   │   │   │   ├── location_analysis.py   # Analisis per lokasi
+│   │   │   │   ├── company_analysis.py    # Analisis perusahaan
+│   │   │   │   └── clustering.py          # Clustering jobs
+│   │   │   │
+│   │   │   └── job_service.py
+│   │   │
+│   │   ├── database/
+│   │   │   ├── __init__.py
+│   │   │   ├── session.py            # Database session
+│   │   │   └── base.py               # Base class
+│   │   │
+│   │   ├── core/
+│   │   │   ├── __init__.py
+│   │   │   ├── security.py           # Auth (jika perlu)
+│   │   │   └── dependencies.py       # Dependency injection
+│   │   │
+│   │   └── utils/
+│   │       ├── __init__.py
+│   │       ├── logger.py
+│   │       └── helpers.py
+│   │
+│   ├── tests/
+│   │   ├── __init__.py
+│   │   ├── test_preprocessing.py
+│   │   ├── test_nlp.py
+│   │   └── test_analytics.py
+│   │
+│   ├── data/                         # Data storage
+│   │   ├── raw/                      # Raw data
+│   │   ├── processed/                # Processed data
+│   │   └── models/                   # Saved ML models
+│   │
+│   ├── notebooks/                    # Jupyter notebooks untuk eksplorasi
+│   │   ├── data_exploration.ipynb
+│   │   ├── nlp_experiments.ipynb
+│   │   └── model_training.ipynb
+│   │
+│   ├── database.db                   # SQLite database
+│   ├── requirements.txt
+│   ├── .env
+│   └── README.md
+│
+├── frontend/                         # Next.js Frontend
+│   ├── public/
+│   │   └── assets/
+│   │
+│   ├── src/
+│   │   ├── app/                      # App Router
+│   │   │   ├── layout.tsx
+│   │   │   ├── page.tsx              # Homepage
+│   │   │   ├── jobs/
+│   │   │   │   ├── page.tsx          # Job listings
+│   │   │   │   └── [id]/
+│   │   │   │       └── page.tsx      # Job detail
+│   │   │   ├── analytics/
+│   │   │   │   ├── page.tsx          # Dashboard analytics
+│   │   │   │   ├── trends/
+│   │   │   │   ├── skills/
+│   │   │   │   ├── salary/
+│   │   │   │   └── locations/
+│   │   │   └── search/
+│   │   │       └── page.tsx
+│   │   │
+│   │   ├── components/
+│   │   │   ├── ui/                   # Reusable UI components
+│   │   │   │   ├── Button.tsx
+│   │   │   │   ├── Card.tsx
+│   │   │   │   ├── Chart.tsx
+│   │   │   │   └── ...
+│   │   │   ├── jobs/
+│   │   │   │   ├── JobCard.tsx
+│   │   │   │   ├── JobList.tsx
+│   │   │   │   ├── JobFilter.tsx
+│   │   │   │   └── JobDetail.tsx
+│   │   │   ├── analytics/
+│   │   │   │   ├── TrendChart.tsx
+│   │   │   │   ├── SkillCloud.tsx
+│   │   │   │   ├── SalaryDistribution.tsx
+│   │   │   │   ├── LocationMap.tsx
+│   │   │   │   └── Dashboard.tsx
+│   │   │   └── layout/
+│   │   │       ├── Header.tsx
+│   │   │       ├── Sidebar.tsx
+│   │   │       └── Footer.tsx
+│   │   │
+│   │   ├── lib/
+│   │   │   ├── api.ts                # API client
+│   │   │   ├── utils.ts
+│   │   │   └── constants.ts
+│   │   │
+│   │   ├── hooks/                    # Custom hooks
+│   │   │   ├── useJobs.ts
+│   │   │   ├── useAnalytics.ts
+│   │   │   └── useSearch.ts
+│   │   │
+│   │   ├── types/                    # TypeScript types
+│   │   │   ├── job.ts
+│   │   │   ├── analytics.ts
+│   │   │   └── api.ts
+│   │   │
+│   │   └── styles/
+│   │       └── globals.css
+│   │
+│   ├── package.json
+│   ├── tsconfig.json
+│   ├── next.config.js
+│   ├── tailwind.config.js
+│   └── README.md
+│
+├── scripts/                          # Utility scripts
+│   ├── data_ingestion.py             # Script untuk import data
+│   ├── batch_processing.py           # Batch NLP processing
+│   └── seed_database.py              # Seed data
+│
+├── docker-compose.yml                # Optional: untuk deployment
+├── .gitignore
+└── README.md

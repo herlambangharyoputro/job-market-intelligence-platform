@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.config import settings
-from app.api.v1.endpoints import jobs, job_listings
+from app.config import settings 
+from app.api.v1.endpoints import jobs, job_listings, analytics
 
 app = FastAPI(
     title=settings.APP_NAME,
@@ -39,4 +39,10 @@ async def root():
         "status": "running"
     }
 
-# ... rest of your endpoints
+# Add router (after existing routers)
+app.include_router(
+    analytics.router,
+    prefix=f"{settings.API_V1_PREFIX}/analytics",
+    tags=["Analytics"]
+)
+  
