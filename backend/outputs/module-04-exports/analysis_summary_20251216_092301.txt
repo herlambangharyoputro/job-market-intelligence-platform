@@ -1,0 +1,60 @@
+======================================================================
+SKILLS DEMAND ANALYSIS SUMMARY
+======================================================================
+
+📊 OVERVIEW
+----------------------------------------------------------------------
+Total Jobs Analyzed:    10,612
+Total Unique Skills:    9,383
+Total Categories:       8
+Avg Skills per Job:     3.17
+Analysis Date:          2025-12-16T09:22:54.600736
+
+🏆 TOP 20 MOST DEMANDED SKILLS
+----------------------------------------------------------------------
+ 1. komunikatif                       940 jobs (  8.9%)
+ 2. microsoft office                  824 jobs (  7.8%)
+ 3. microsoft excel                   450 jobs (  4.2%)
+ 4. communication                     390 jobs (  3.7%)
+ 5. negosiasi                         368 jobs (  3.5%)
+ 6. excel                             350 jobs (  3.3%)
+ 7. sales                             349 jobs (  3.3%)
+ 8. komunikasi dan interaksi          248 jobs (  2.3%)
+ 9. microsoft ms word                 247 jobs (  2.3%)
+10. autocad                           246 jobs (  2.3%)
+11. marketing                         238 jobs (  2.2%)
+12. microsoft ms excel                213 jobs (  2.0%)
+13. leadership                        197 jobs (  1.9%)
+14. komputer                          184 jobs (  1.7%)
+15. accurate                          181 jobs (  1.7%)
+16. sales marketing                   164 jobs (  1.6%)
+17. canva                             161 jobs (  1.5%)
+18. penjualan                         142 jobs (  1.3%)
+19. administrasi                      141 jobs (  1.3%)
+20. bahasa inggris                    122 jobs (  1.1%)
+
+📂 CATEGORY DISTRIBUTION
+----------------------------------------------------------------------
+uncategorized             9192 skills, 31,877 total
+soft_skill                 62 skills,    699 total
+programming_language      107 skills,    682 total
+tools                      55 skills,    269 total
+frontend                   10 skills,     52 total
+database                   17 skills,     51 total
+backend                     7 skills,     12 total
+devops                      4 skills,     10 total
+
+🔗 TOP 10 SKILL PAIRS
+----------------------------------------------------------------------
+ 1. microsoft excel      + microsoft office     ( 301 jobs)
+ 2. komunikatif          + negosiasi            ( 153 jobs)
+ 3. microsoft excel      + microsoft ms word    ( 128 jobs)
+ 4. microsoft ms word    + microsoft office     ( 121 jobs)
+ 5. microsoft ms excel   + microsoft ms word    ( 115 jobs)
+ 6. microsoft ms excel   + microsoft ms powerpoint ( 110 jobs)
+ 7. microsoft ms powerpoint + microsoft ms word    ( 109 jobs)
+ 8. komunikatif          + microsoft office     (  92 jobs)
+ 9. komunikatif          + sales                (  81 jobs)
+10. excel                + power point          (  72 jobs)
+
+======================================================================

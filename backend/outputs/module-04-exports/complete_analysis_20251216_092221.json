@@ -1,0 +1,2491 @@
+{
+  "summary": {
+    "total_jobs_analyzed": 100,
+    "total_unique_skills": 255,
+    "total_categories": 6,
+    "avg_skills_per_job": 3.36,
+    "top_3_skills": [
+      "komunikatif",
+      "microsoft office",
+      "bimbingan anak berkebutuhan khusus"
+    ],
+    "categories": [
+      "uncategorized",
+      "tools",
+      "soft_skill",
+      "programming_language",
+      "frontend",
+      "database"
+    ],
+    "analysis_timestamp": "2025-12-16T09:22:16.814847"
+  },
+  "frequency": {
+    "total_jobs": 100,
+    "total_skills": 255,
+    "skills": [
+      {
+        "skill": "komunikatif",
+        "demand_count": 20,
+        "category": "soft_skill",
+        "percentage": 20.0,
+        "rank": 1
+      },
+      {
+        "skill": "microsoft office",
+        "demand_count": 13,
+        "category": "uncategorized",
+        "percentage": 13.0,
+        "rank": 2
+      },
+      {
+        "skill": "bimbingan anak berkebutuhan khusus",
+        "demand_count": 7,
+        "category": "uncategorized",
+        "percentage": 7.0,
+        "rank": 3
+      },
+      {
+        "skill": "microsoft excel",
+        "demand_count": 5,
+        "category": "uncategorized",
+        "percentage": 5.0,
+        "rank": 4
+      },
+      {
+        "skill": "menangani anak - anak berkebutuhan khusus",
+        "demand_count": 5,
+        "category": "uncategorized",
+        "percentage": 5.0,
+        "rank": 5
+      },
+      {
+        "skill": "dalam mengajar",
+        "demand_count": 5,
+        "category": "uncategorized",
+        "percentage": 5.0,
+        "rank": 6
+      },
+      {
+        "skill": "sales",
+        "demand_count": 4,
+        "category": "uncategorized",
+        "percentage": 4.0,
+        "rank": 7
+      },
+      {
+        "skill": "penjualan",
+        "demand_count": 4,
+        "category": "uncategorized",
+        "percentage": 4.0,
+        "rank": 8
+      },
+      {
+        "skill": "canva",
+        "demand_count": 3,
+        "category": "uncategorized",
+        "percentage": 3.0,
+        "rank": 9
+      },
+      {
+        "skill": "accurate",
+        "demand_count": 3,
+        "category": "uncategorized",
+        "percentage": 3.0,
+        "rank": 10
+      },
+      {
+        "skill": "microsoft ms word",
+        "demand_count": 3,
+        "category": "uncategorized",
+        "percentage": 3.0,
+        "rank": 11
+      },
+      {
+        "skill": "capcut",
+        "demand_count": 3,
+        "category": "uncategorized",
+        "percentage": 3.0,
+        "rank": 12
+      },
+      {
+        "skill": "sketchup",
+        "demand_count": 3,
+        "category": "uncategorized",
+        "percentage": 3.0,
+        "rank": 13
+      },
+      {
+        "skill": "adobe illustrator",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 14
+      },
+      {
+        "skill": "photoshop",
+        "demand_count": 2,
+        "category": "tools",
+        "percentage": 2.0,
+        "rank": 15
+      },
+      {
+        "skill": "negosiasi",
+        "demand_count": 2,
+        "category": "programming_language",
+        "percentage": 2.0,
+        "rank": 16
+      },
+      {
+        "skill": "adobe photoshop",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 17
+      },
+      {
+        "skill": "e-commerce",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 18
+      },
+      {
+        "skill": "e-faktur",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 19
+      },
+      {
+        "skill": "critical and analytical thinking",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 20
+      },
+      {
+        "skill": "team work",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 21
+      },
+      {
+        "skill": "promosi dan penjualan",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 22
+      },
+      {
+        "skill": "social media",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 23
+      },
+      {
+        "skill": "leadership",
+        "demand_count": 2,
+        "category": "soft_skill",
+        "percentage": 2.0,
+        "rank": 24
+      },
+      {
+        "skill": "negoisasi",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 25
+      },
+      {
+        "skill": "video editing",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 26
+      },
+      {
+        "skill": "content creator",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 27
+      },
+      {
+        "skill": "customer service",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 28
+      },
+      {
+        "skill": "pelayanan kepada pelanggan",
+        "demand_count": 2,
+        "category": "uncategorized",
+        "percentage": 2.0,
+        "rank": 29
+      },
+      {
+        "skill": "event and communication",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 30
+      },
+      {
+        "skill": "digital marketing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 31
+      },
+      {
+        "skill": "event concept",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 32
+      },
+      {
+        "skill": "well organised",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 33
+      },
+      {
+        "skill": "clo d",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 34
+      },
+      {
+        "skill": "d design",
+        "demand_count": 1,
+        "category": "tools",
+        "percentage": 1.0,
+        "rank": 35
+      },
+      {
+        "skill": "and rendering",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 36
+      },
+      {
+        "skill": "visualization",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 37
+      },
+      {
+        "skill": "persuasif",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 38
+      },
+      {
+        "skill": "penjualan dan pemasaran",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 39
+      },
+      {
+        "skill": "mengendarai sepeda motor",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 40
+      },
+      {
+        "skill": "market place shopee",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 41
+      },
+      {
+        "skill": "tokopedia",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 42
+      },
+      {
+        "skill": "pajak kup",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 43
+      },
+      {
+        "skill": "spt badan dan spt orang pribadi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 44
+      },
+      {
+        "skill": "pajak masa tahunan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 45
+      },
+      {
+        "skill": "pajak import pph",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 46
+      },
+      {
+        "skill": "pph",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 47
+      },
+      {
+        "skill": "teamwork",
+        "demand_count": 1,
+        "category": "soft_skill",
+        "percentage": 1.0,
+        "rank": 48
+      },
+      {
+        "skill": "warehouse",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 49
+      },
+      {
+        "skill": "mengontrol sistem pergudangan dan melakukan stock opname",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 50
+      },
+      {
+        "skill": "warehouse coordinator",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 51
+      },
+      {
+        "skill": "logistik atau pergudangan mengatur",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 52
+      },
+      {
+        "skill": "logistic and warehousing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 53
+      },
+      {
+        "skill": "pengiriman",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 54
+      },
+      {
+        "skill": "arsip dokumen document control",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 55
+      },
+      {
+        "skill": "mengelola arsip",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 56
+      },
+      {
+        "skill": "property",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 57
+      },
+      {
+        "skill": "mampu membuat skincare alami.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 58
+      },
+      {
+        "skill": "knowledge make-up and skincare ingredients.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 59
+      },
+      {
+        "skill": "problem solving cepat menemukan solusi untuk masalah administratif",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 60
+      },
+      {
+        "skill": "farmasi instrumen",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 61
+      },
+      {
+        "skill": "seperti dokumen yang hilang atau jadwal yang bentrok.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 62
+      },
+      {
+        "skill": "analisis kelayakan produk-produk skincare",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 63
+      },
+      {
+        "skill": "research abilities",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 64
+      },
+      {
+        "skill": "research analysis",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 65
+      },
+      {
+        "skill": "negosiasi dan komunikasi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 66
+      },
+      {
+        "skill": "book editing proofreading",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 67
+      },
+      {
+        "skill": "microsoft ms excel",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 68
+      },
+      {
+        "skill": "book editor",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 69
+      },
+      {
+        "skill": "proof-reading",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 70
+      },
+      {
+        "skill": "microsoft ms powerpoint",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 71
+      },
+      {
+        "skill": "administrasi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 72
+      },
+      {
+        "skill": "aktif dalam berkomunikasi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 73
+      },
+      {
+        "skill": "sosial media creative",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 74
+      },
+      {
+        "skill": "video editing and videographer",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 75
+      },
+      {
+        "skill": "design grafis",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 76
+      },
+      {
+        "skill": "video audio editing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 77
+      },
+      {
+        "skill": "communication skill",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 78
+      },
+      {
+        "skill": "marketing and sales.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 79
+      },
+      {
+        "skill": "promotion",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 80
+      },
+      {
+        "skill": "presentasi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 81
+      },
+      {
+        "skill": "social media analitic",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 82
+      },
+      {
+        "skill": "copywriting",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 83
+      },
+      {
+        "skill": "excell",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 84
+      },
+      {
+        "skill": "data entry",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 85
+      },
+      {
+        "skill": "tanggung jawab dan dapat diandalkan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 86
+      },
+      {
+        "skill": "manejemen",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 87
+      },
+      {
+        "skill": "instalasi hardware",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 88
+      },
+      {
+        "skill": "teknikal support",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 89
+      },
+      {
+        "skill": "it hardware dan software",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 90
+      },
+      {
+        "skill": "aba therapy",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 91
+      },
+      {
+        "skill": "disiplin",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 92
+      },
+      {
+        "skill": "bekerja keras dan tepat waktu",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 93
+      },
+      {
+        "skill": "mic. excel",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 94
+      },
+      {
+        "skill": "mic. word",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 95
+      },
+      {
+        "skill": "mic. power point dan accsess",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 96
+      },
+      {
+        "skill": "bisa menyetir mobil",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 97
+      },
+      {
+        "skill": "menyetir mobil manual matic dengan baik dan lancar",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 98
+      },
+      {
+        "skill": "menyetir mobil.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 99
+      },
+      {
+        "skill": "bisa menyetir mobil ada sim.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 100
+      },
+      {
+        "skill": "admin",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 101
+      },
+      {
+        "skill": "customer and service oriented",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 102
+      },
+      {
+        "skill": "mengetik",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 103
+      },
+      {
+        "skill": "coreldraw dan photoshop",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 104
+      },
+      {
+        "skill": "adobe ai",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 105
+      },
+      {
+        "skill": "corel draw",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 106
+      },
+      {
+        "skill": "d max",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 107
+      },
+      {
+        "skill": "blender",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 108
+      },
+      {
+        "skill": "editor",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 109
+      },
+      {
+        "skill": "drone",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 110
+      },
+      {
+        "skill": "konten kreator",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 111
+      },
+      {
+        "skill": "kebersihan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 112
+      },
+      {
+        "skill": "kebersihan cleaning service",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 113
+      },
+      {
+        "skill": "pivot table",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 114
+      },
+      {
+        "skill": "microsoft excel if",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 115
+      },
+      {
+        "skill": "membuat hpp",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 116
+      },
+      {
+        "skill": "vlookup dan hlookup",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 117
+      },
+      {
+        "skill": "scaffolding construction",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 118
+      },
+      {
+        "skill": "kontruksi interior memahami gambar teknis dan spesifikasi proyek. mampu membaca dan menginterpretasikan desain serta dokumen teknis. memiliki keterampilan komunikasi dan koordinasi yang baik.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 119
+      },
+      {
+        "skill": "mampu menguasai teknik pengelasan listrikwelder",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 120
+      },
+      {
+        "skill": "aktif komunikatif",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 121
+      },
+      {
+        "skill": "percaya diri",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 122
+      },
+      {
+        "skill": "akuntansi dan keuangan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 123
+      },
+      {
+        "skill": "e-faktur pajak",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 124
+      },
+      {
+        "skill": "ap ar",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 125
+      },
+      {
+        "skill": "molding injection",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 126
+      },
+      {
+        "skill": "core tools fmea",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 127
+      },
+      {
+        "skill": "microsoft powerpoint",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 128
+      },
+      {
+        "skill": "control plan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 129
+      },
+      {
+        "skill": "msa",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 130
+      },
+      {
+        "skill": "autodesk autocad",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 131
+      },
+      {
+        "skill": "spc",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 132
+      },
+      {
+        "skill": "apqp ppap",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 133
+      },
+      {
+        "skill": "bekerja tekanan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 134
+      },
+      {
+        "skill": "orientasi hasil fokus mencapai target dan meningkatkan efisiensi kerja.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 135
+      },
+      {
+        "skill": "sales and marketing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 136
+      },
+      {
+        "skill": "pengelolaan dokumen",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 137
+      },
+      {
+        "skill": "mengajar matematika",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 138
+      },
+      {
+        "skill": "mengajar siswa sd",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 139
+      },
+      {
+        "skill": "mengajar anak-anak",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 140
+      },
+      {
+        "skill": "matematika",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 141
+      },
+      {
+        "skill": "kefarmasian",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 142
+      },
+      {
+        "skill": "apote",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 143
+      },
+      {
+        "skill": "ilmu kefarmasian",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 144
+      },
+      {
+        "skill": "asisten apoteker aa atau tenaga teknis kefarmasian ttk",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 145
+      },
+      {
+        "skill": "movie maker",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 146
+      },
+      {
+        "skill": "video pad editor",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 147
+      },
+      {
+        "skill": "foto dan videography",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 148
+      },
+      {
+        "skill": "adobe premiere",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 149
+      },
+      {
+        "skill": "bisa mengemudikan truk box",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 150
+      },
+      {
+        "skill": "engkelpick up box l",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 151
+      },
+      {
+        "skill": "mengelola whatsapp bussines",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 152
+      },
+      {
+        "skill": "admin cs online shop",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 153
+      },
+      {
+        "skill": "forecasting",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 154
+      },
+      {
+        "skill": "google sheet",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 155
+      },
+      {
+        "skill": "memahami production planning inventery control",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 156
+      },
+      {
+        "skill": "konten sosial media nilai tambah",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 157
+      },
+      {
+        "skill": "perawatan mesin akan dilatih",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 158
+      },
+      {
+        "skill": "kebersihan kerapihan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 159
+      },
+      {
+        "skill": "illustration",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 160
+      },
+      {
+        "skill": "premiere",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 161
+      },
+      {
+        "skill": "desain grafis",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 162
+      },
+      {
+        "skill": "edit video",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 163
+      },
+      {
+        "skill": "kasir",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 164
+      },
+      {
+        "skill": "pos system",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 165
+      },
+      {
+        "skill": "menjual produk atau jasa",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 166
+      },
+      {
+        "skill": "baik secara langsung ataupun secara online.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 167
+      },
+      {
+        "skill": "menjual produk",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 168
+      },
+      {
+        "skill": "admin assistant",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 169
+      },
+      {
+        "skill": "detail",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 170
+      },
+      {
+        "skill": "apoteker",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 171
+      },
+      {
+        "skill": "farmasi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 172
+      },
+      {
+        "skill": "facebook",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 173
+      },
+      {
+        "skill": "google ads",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 174
+      },
+      {
+        "skill": "instagram",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 175
+      },
+      {
+        "skill": "facebook ads.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 176
+      },
+      {
+        "skill": "social media ads tiktok",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 177
+      },
+      {
+        "skill": "google",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 178
+      },
+      {
+        "skill": "bahasa mandarin lisan tulisan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 179
+      },
+      {
+        "skill": "oracle",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 180
+      },
+      {
+        "skill": "program kasir",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 181
+      },
+      {
+        "skill": "mengoperasikan mesin kasir pos",
+        "demand_count": 1,
+        "category": "programming_language",
+        "percentage": 1.0,
+        "rank": 182
+      },
+      {
+        "skill": "sistem transaksi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 183
+      },
+      {
+        "skill": "selling",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 184
+      },
+      {
+        "skill": "admini",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 185
+      },
+      {
+        "skill": "adminiatrasi keungan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 186
+      },
+      {
+        "skill": "bahasa ing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 187
+      },
+      {
+        "skill": "bahasa inggris aktif maupun pasif",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 188
+      },
+      {
+        "skill": "analys and problem solving",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 189
+      },
+      {
+        "skill": "berbahasa inggris secara aktif baik lisan maupun tulisan.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 190
+      },
+      {
+        "skill": "negotiation",
+        "demand_count": 1,
+        "category": "programming_language",
+        "percentage": 1.0,
+        "rank": 191
+      },
+      {
+        "skill": "agrikultur",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 192
+      },
+      {
+        "skill": "pemasaran dan penjualan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 193
+      },
+      {
+        "skill": "pelayanan pelanggan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 194
+      },
+      {
+        "skill": "data entry.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 195
+      },
+      {
+        "skill": "memahami pembuatan dokumen",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 196
+      },
+      {
+        "skill": "arsip",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 197
+      },
+      {
+        "skill": "uiux",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 198
+      },
+      {
+        "skill": "design graphic",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 199
+      },
+      {
+        "skill": "desain adobe photoshop",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 200
+      },
+      {
+        "skill": "corel",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 201
+      },
+      {
+        "skill": "autocad d d",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 202
+      },
+      {
+        "skill": "sketchup dimensi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 203
+      },
+      {
+        "skill": "bisa membuat rab",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 204
+      },
+      {
+        "skill": "sap",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 205
+      },
+      {
+        "skill": "analisis",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 206
+      },
+      {
+        "skill": "b.inggris",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 207
+      },
+      {
+        "skill": "ticketing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 208
+      },
+      {
+        "skill": "dapat membuat konten estetika untuk klinik kecantikan",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 209
+      },
+      {
+        "skill": "dan mengirimkan barang",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 210
+      },
+      {
+        "skill": "membungkus",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 211
+      },
+      {
+        "skill": "mampu packing barang dengan aman",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 212
+      },
+      {
+        "skill": "mampu membedakan warna dengan baik",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 213
+      },
+      {
+        "skill": "mampu menyelesaikan dan menyiapkan pesanan untuk pengiriman dan pengambilan barang sesuai jadwal termasuk memuat",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 214
+      },
+      {
+        "skill": "memberi label",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 215
+      },
+      {
+        "skill": "hospitality management",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 216
+      },
+      {
+        "skill": "communication",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 217
+      },
+      {
+        "skill": "sales dan marketing",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 218
+      },
+      {
+        "skill": "tax",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 219
+      },
+      {
+        "skill": "tax accounting",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 220
+      },
+      {
+        "skill": "mengajar geografi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 221
+      },
+      {
+        "skill": "mengajar",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 222
+      },
+      {
+        "skill": "mengajar pelajaran ilmu sejarah sma",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 223
+      },
+      {
+        "skill": "masak",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 224
+      },
+      {
+        "skill": "mampu mengajar dengan menggunakan berbagai media pembelajaran",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 225
+      },
+      {
+        "skill": "merencanakan kegiatan yang mendorong perkembangan anak",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 226
+      },
+      {
+        "skill": "menguasai microsoft word",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 227
+      },
+      {
+        "skill": "powerpoint",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 228
+      },
+      {
+        "skill": "elektronika",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 229
+      },
+      {
+        "skill": "excel",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 230
+      },
+      {
+        "skill": "programing visual",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 231
+      },
+      {
+        "skill": "htmlcss",
+        "demand_count": 1,
+        "category": "frontend",
+        "percentage": 1.0,
+        "rank": 232
+      },
+      {
+        "skill": "html.java script",
+        "demand_count": 1,
+        "category": "programming_language",
+        "percentage": 1.0,
+        "rank": 233
+      },
+      {
+        "skill": "php",
+        "demand_count": 1,
+        "category": "programming_language",
+        "percentage": 1.0,
+        "rank": 234
+      },
+      {
+        "skill": "web programming",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 235
+      },
+      {
+        "skill": "css",
+        "demand_count": 1,
+        "category": "frontend",
+        "percentage": 1.0,
+        "rank": 236
+      },
+      {
+        "skill": "mysql",
+        "demand_count": 1,
+        "category": "database",
+        "percentage": 1.0,
+        "rank": 237
+      },
+      {
+        "skill": "terbiasa melakukan penilitian",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 238
+      },
+      {
+        "skill": "bisa dan menguasai metode - metode konstruksi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 239
+      },
+      {
+        "skill": "kreatif.",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 240
+      },
+      {
+        "skill": "apache kafka",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 241
+      },
+      {
+        "skill": "power bi- problem solver",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 242
+      },
+      {
+        "skill": "creative thinking",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 243
+      },
+      {
+        "skill": "apache nifi",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 244
+      },
+      {
+        "skill": "familiar with python",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 245
+      },
+      {
+        "skill": "database management system",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 246
+      },
+      {
+        "skill": "airflow - familiar with datamining",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 247
+      },
+      {
+        "skill": "database microsoft sql sybase interactive sql sqlite mysql",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 248
+      },
+      {
+        "skill": "dwh architecture and data processing - familiar with tableau",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 249
+      },
+      {
+        "skill": "rekruitmen",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 250
+      },
+      {
+        "skill": "kerja sama tim",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 251
+      },
+      {
+        "skill": "model and influencer contract",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 252
+      },
+      {
+        "skill": "model",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 253
+      },
+      {
+        "skill": "editing foto",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 254
+      },
+      {
+        "skill": "menguasai komputer ms office",
+        "demand_count": 1,
+        "category": "uncategorized",
+        "percentage": 1.0,
+        "rank": 255
+      }
+    ]
+  },
+  "cooccurrence": {
+    "total_pairs": 3,
+    "min_support": 5,
+    "pairs": [
+      {
+        "skill_1": "bimbingan anak berkebutuhan khusus",
+        "skill_2": "dalam mengajar",
+        "cooccurrence_count": 5,
+        "lift": 14.286,
+        "confidence": 0.714
+      },
+      {
+        "skill_1": "bimbingan anak berkebutuhan khusus",
+        "skill_2": "menangani anak - anak berkebutuhan khusus",
+        "cooccurrence_count": 5,
+        "lift": 14.286,
+        "confidence": 0.714
+      },
+      {
+        "skill_1": "dalam mengajar",
+        "skill_2": "menangani anak - anak berkebutuhan khusus",
+        "cooccurrence_count": 5,
+        "lift": 20.0,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "top_skills": [
+    {
+      "skill": "komunikatif",
+      "demand_count": 20,
+      "percentage": 20.0,
+      "rank": 1
+    },
+    {
+      "skill": "microsoft office",
+      "demand_count": 13,
+      "percentage": 13.0,
+      "rank": 2
+    },
+    {
+      "skill": "bimbingan anak berkebutuhan khusus",
+      "demand_count": 7,
+      "percentage": 7.0,
+      "rank": 3
+    },
+    {
+      "skill": "microsoft excel",
+      "demand_count": 5,
+      "percentage": 5.0,
+      "rank": 4
+    },
+    {
+      "skill": "menangani anak - anak berkebutuhan khusus",
+      "demand_count": 5,
+      "percentage": 5.0,
+      "rank": 5
+    },
+    {
+      "skill": "dalam mengajar",
+      "demand_count": 5,
+      "percentage": 5.0,
+      "rank": 6
+    },
+    {
+      "skill": "sales",
+      "demand_count": 4,
+      "percentage": 4.0,
+      "rank": 7
+    },
+    {
+      "skill": "penjualan",
+      "demand_count": 4,
+      "percentage": 4.0,
+      "rank": 8
+    },
+    {
+      "skill": "canva",
+      "demand_count": 3,
+      "percentage": 3.0,
+      "rank": 9
+    },
+    {
+      "skill": "accurate",
+      "demand_count": 3,
+      "percentage": 3.0,
+      "rank": 10
+    },
+    {
+      "skill": "microsoft ms word",
+      "demand_count": 3,
+      "percentage": 3.0,
+      "rank": 11
+    },
+    {
+      "skill": "capcut",
+      "demand_count": 3,
+      "percentage": 3.0,
+      "rank": 12
+    },
+    {
+      "skill": "sketchup",
+      "demand_count": 3,
+      "percentage": 3.0,
+      "rank": 13
+    },
+    {
+      "skill": "adobe illustrator",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 14
+    },
+    {
+      "skill": "photoshop",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 15
+    },
+    {
+      "skill": "negosiasi",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 16
+    },
+    {
+      "skill": "adobe photoshop",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 17
+    },
+    {
+      "skill": "e-commerce",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 18
+    },
+    {
+      "skill": "e-faktur",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 19
+    },
+    {
+      "skill": "critical and analytical thinking",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 20
+    },
+    {
+      "skill": "team work",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 21
+    },
+    {
+      "skill": "promosi dan penjualan",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 22
+    },
+    {
+      "skill": "social media",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 23
+    },
+    {
+      "skill": "leadership",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 24
+    },
+    {
+      "skill": "negoisasi",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 25
+    },
+    {
+      "skill": "video editing",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 26
+    },
+    {
+      "skill": "content creator",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 27
+    },
+    {
+      "skill": "customer service",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 28
+    },
+    {
+      "skill": "pelayanan kepada pelanggan",
+      "demand_count": 2,
+      "percentage": 2.0,
+      "rank": 29
+    },
+    {
+      "skill": "event and communication",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 30
+    },
+    {
+      "skill": "digital marketing",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 31
+    },
+    {
+      "skill": "event concept",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 32
+    },
+    {
+      "skill": "well organised",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 33
+    },
+    {
+      "skill": "clo d",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 34
+    },
+    {
+      "skill": "d design",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 35
+    },
+    {
+      "skill": "and rendering",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 36
+    },
+    {
+      "skill": "visualization",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 37
+    },
+    {
+      "skill": "persuasif",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 38
+    },
+    {
+      "skill": "penjualan dan pemasaran",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 39
+    },
+    {
+      "skill": "mengendarai sepeda motor",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 40
+    },
+    {
+      "skill": "market place shopee",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 41
+    },
+    {
+      "skill": "tokopedia",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 42
+    },
+    {
+      "skill": "pajak kup",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 43
+    },
+    {
+      "skill": "spt badan dan spt orang pribadi",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 44
+    },
+    {
+      "skill": "pajak masa tahunan",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 45
+    },
+    {
+      "skill": "pajak import pph",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 46
+    },
+    {
+      "skill": "pph",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 47
+    },
+    {
+      "skill": "teamwork",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 48
+    },
+    {
+      "skill": "warehouse",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 49
+    },
+    {
+      "skill": "mengontrol sistem pergudangan dan melakukan stock opname",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 50
+    },
+    {
+      "skill": "warehouse coordinator",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 51
+    },
+    {
+      "skill": "logistik atau pergudangan mengatur",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 52
+    },
+    {
+      "skill": "logistic and warehousing",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 53
+    },
+    {
+      "skill": "pengiriman",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 54
+    },
+    {
+      "skill": "arsip dokumen document control",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 55
+    },
+    {
+      "skill": "mengelola arsip",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 56
+    },
+    {
+      "skill": "property",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 57
+    },
+    {
+      "skill": "mampu membuat skincare alami.",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 58
+    },
+    {
+      "skill": "knowledge make-up and skincare ingredients.",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 59
+    },
+    {
+      "skill": "problem solving cepat menemukan solusi untuk masalah administratif",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 60
+    },
+    {
+      "skill": "farmasi instrumen",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 61
+    },
+    {
+      "skill": "seperti dokumen yang hilang atau jadwal yang bentrok.",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 62
+    },
+    {
+      "skill": "analisis kelayakan produk-produk skincare",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 63
+    },
+    {
+      "skill": "research abilities",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 64
+    },
+    {
+      "skill": "research analysis",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 65
+    },
+    {
+      "skill": "negosiasi dan komunikasi",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 66
+    },
+    {
+      "skill": "book editing proofreading",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 67
+    },
+    {
+      "skill": "microsoft ms excel",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 68
+    },
+    {
+      "skill": "book editor",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 69
+    },
+    {
+      "skill": "proof-reading",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 70
+    },
+    {
+      "skill": "microsoft ms powerpoint",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 71
+    },
+    {
+      "skill": "administrasi",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 72
+    },
+    {
+      "skill": "aktif dalam berkomunikasi",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 73
+    },
+    {
+      "skill": "sosial media creative",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 74
+    },
+    {
+      "skill": "video editing and videographer",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 75
+    },
+    {
+      "skill": "design grafis",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 76
+    },
+    {
+      "skill": "video audio editing",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 77
+    },
+    {
+      "skill": "communication skill",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 78
+    },
+    {
+      "skill": "marketing and sales.",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 79
+    },
+    {
+      "skill": "promotion",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 80
+    },
+    {
+      "skill": "presentasi",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 81
+    },
+    {
+      "skill": "social media analitic",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 82
+    },
+    {
+      "skill": "copywriting",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 83
+    },
+    {
+      "skill": "excell",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 84
+    },
+    {
+      "skill": "data entry",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 85
+    },
+    {
+      "skill": "tanggung jawab dan dapat diandalkan",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 86
+    },
+    {
+      "skill": "manejemen",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 87
+    },
+    {
+      "skill": "instalasi hardware",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 88
+    },
+    {
+      "skill": "teknikal support",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 89
+    },
+    {
+      "skill": "it hardware dan software",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 90
+    },
+    {
+      "skill": "aba therapy",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 91
+    },
+    {
+      "skill": "disiplin",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 92
+    },
+    {
+      "skill": "bekerja keras dan tepat waktu",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 93
+    },
+    {
+      "skill": "mic. excel",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 94
+    },
+    {
+      "skill": "mic. word",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 95
+    },
+    {
+      "skill": "mic. power point dan accsess",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 96
+    },
+    {
+      "skill": "bisa menyetir mobil",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 97
+    },
+    {
+      "skill": "menyetir mobil manual matic dengan baik dan lancar",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 98
+    },
+    {
+      "skill": "menyetir mobil.",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 99
+    },
+    {
+      "skill": "bisa menyetir mobil ada sim.",
+      "demand_count": 1,
+      "percentage": 1.0,
+      "rank": 100
+    }
+  ],
+  "category_distribution": {
+    "total_categories": 6,
+    "categories": [
+      {
+        "category": "uncategorized",
+        "unique_skills": 243,
+        "total_demand": 316,
+        "percentage": 316.0,
+        "avg_demand_per_skill": 1.3
+      },
+      {
+        "category": "soft_skill",
+        "unique_skills": 3,
+        "total_demand": 6,
+        "percentage": 6.0,
+        "avg_demand_per_skill": 2.0
+      },
+      {
+        "category": "programming_language",
+        "unique_skills": 5,
+        "total_demand": 6,
+        "percentage": 6.0,
+        "avg_demand_per_skill": 1.2
+      },
+      {
+        "category": "tools",
+        "unique_skills": 4,
+        "total_demand": 5,
+        "percentage": 5.0,
+        "avg_demand_per_skill": 1.25
+      },
+      {
+        "category": "frontend",
+        "unique_skills": 2,
+        "total_demand": 2,
+        "percentage": 2.0,
+        "avg_demand_per_skill": 1.0
+      },
+      {
+        "category": "database",
+        "unique_skills": 1,
+        "total_demand": 1,
+        "percentage": 1.0,
+        "avg_demand_per_skill": 1.0
+      }
+    ]
+  },
+  "trends": null,
+  "filters_applied": {}
+}

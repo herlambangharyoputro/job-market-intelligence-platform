@@ -1,0 +1,9 @@
+category,unique_skills,total_demand,percentage,avg_demand_per_skill
+uncategorized,9192,31877,300.39,3.47
+soft_skill,62,699,6.59,11.27
+programming_language,107,682,6.43,6.37
+tools,55,269,2.53,4.89
+frontend,10,52,0.49,5.2
+database,17,51,0.48,3.0
+backend,7,12,0.11,1.71
+devops,4,10,0.09,2.5

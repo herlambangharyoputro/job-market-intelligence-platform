@@ -1,0 +1,906 @@
+skill_1,skill_2,cooccurrence_count,lift,confidence
+microsoft excel,microsoft office,301,8.614,0.669
+komunikatif,negosiasi,153,4.694,0.163
+microsoft excel,microsoft ms word,128,12.221,0.284
+microsoft ms word,microsoft office,121,6.309,0.49
+microsoft ms excel,microsoft ms word,115,23.196,0.54
+microsoft ms excel,microsoft ms powerpoint,110,45.67,0.516
+microsoft ms powerpoint,microsoft ms word,109,39.025,0.908
+komunikatif,microsoft office,92,1.26,0.098
+komunikatif,sales,81,2.62,0.086
+excel,power point,72,19.667,0.206
+excel,ms office word,64,25.873,0.183
+excel,ppt,63,28.51,0.18
+ms office word,ppt,63,133.046,0.84
+marketing,sales,59,7.538,0.248
+microsoft excel,microsoft power point,58,21.711,0.129
+excel,powerpoint,55,20.337,0.157
+komunikatif,penjualan,53,4.214,0.056
+komunikatif,microsoft ms word,53,2.422,0.056
+microsoft office,microsoft power point,53,10.834,0.064
+canva,capcut,51,31.416,0.317
+negosiasi,sales,51,4.214,0.139
+komputer,microsoft office,51,3.57,0.277
+autocad,sketchup,46,23.908,0.187
+komunikatif,microsoft ms excel,46,2.438,0.049
+bahasa inggris,microsoft office,45,4.75,0.369
+sales,sales marketing,43,7.973,0.123
+komunikatif,selling,42,5.45,0.045
+communication,negosiasi,42,3.106,0.108
+communication,marketing,42,4.802,0.108
+komunikatif,marketing,40,1.897,0.043
+autocad,microsoft office,37,1.937,0.15
+adobe photoshop,corel draw,36,33.952,0.31
+excel,menguasai microsoft office word,36,28.724,0.103
+komputer,komunikatif,35,2.147,0.19
+communication,sales,35,2.729,0.09
+komunikatif,microsoft excel,34,0.853,0.036
+komunikasi dan interaksi,negosiasi,34,3.953,0.137
+penjualan,sales,33,7.066,0.232
+communication,microsoft office,33,1.09,0.085
+sales marketing,sales marketing strategy,32,35.701,0.195
+komunikatif,microsoft ms powerpoint,31,2.916,0.033
+adobe photoshop,illustration,30,91.483,0.259
+negosiasi,selling,30,9.944,0.082
+negosiasi,penjualan,30,6.092,0.082
+adobe photoshop,premiere,29,80.394,0.25
+illustration,premiere,29,310.857,0.967
+komunikatif,leadership,29,1.662,0.031
+komunikatif,microsoft ms office,29,3.241,0.031
+microsoft ms word,microsoft power point,29,19.777,0.117
+accurate,microsoft excel,28,3.648,0.155
+microsoft office,negosiasi,28,0.98,0.034
+marketing,sales marketing,27,7.341,0.113
+communication,sales marketing,26,4.314,0.067
+sales,sales and marketing,26,11.294,0.074
+sales,sales marketing strategy,26,13.631,0.074
+canva,microsoft office,26,2.08,0.161
+marketing,negosiasi,26,3.15,0.109
+excel,word,25,6.264,0.071
+excel,ms. office word,25,30.32,0.071
+excel,publisher,25,30.32,0.071
+ms. office word,power point,25,95.604,1.0
+ms. office word,publisher,25,424.48,1.0
+power point,publisher,25,95.604,0.225
+adobe illustrator,desain adobe photoshop,24,139.174,0.393
+communication,leadership,24,3.315,0.062
+komunikasi dan interaksi,microsoft office,24,1.246,0.097
+microsoft office,microsoft project,23,9.555,0.028
+bahasa inggris,komunikatif,23,2.128,0.189
+powerpoint,word,23,24.599,0.28
+accurate,microsoft ms excel,23,6.331,0.127
+administrasi,microsoft office,23,2.101,0.163
+accurate,akuntansi,23,13.621,0.127
+excel,microsoft office word,23,18.352,0.066
+bahasa inggris,microsoft excel,23,4.446,0.189
+administrasi,communication,22,4.246,0.156
+communication,microsoft excel,22,1.33,0.056
+microsoft excel,microsoft project,21,15.975,0.047
+customer service,komunikatif,21,3.079,0.273
+marketing,penjualan,21,6.594,0.088
+kemampuan system fifo,lifo,20,482.364,1.0
+komunikatif,presentasi,20,4.105,0.021
+corel draw,photoshop,19,20.581,0.196
+ms excel,ms office ms word,19,321.576,0.576
+ms excel,ms power point,19,226.294,0.576
+komunikatif,sales and marketing,19,3.064,0.02
+accurate,microsoft office,19,1.352,0.105
+pph,ppn,19,144.64,0.463
+b b and b c,negosiasi dan komunikasi,19,94.263,0.613
+presentasi,sales,18,9.951,0.327
+administrasi,komunikatif,18,1.441,0.128
+autocad,microsoft excel,18,1.726,0.073
+sem,seo,18,197.739,0.783
+negosiasi,presentasi,18,9.438,0.049
+microsoft office,microsoft office word,18,6.1,0.022
+b b and b c,sales dan marketing,18,308.09,0.581
+microsoft office excel,powerpoint,17,100.002,0.773
+microsoft office excel,word,17,67.77,0.773
+adobe photoshop,capcut,17,14.535,0.147
+ms office ms word,ms power point,17,351.665,0.895
+dll,excel,17,9.545,0.315
+access,excel,17,30.32,1.0
+canvassing,sales,17,23.496,0.773
+accounting,accurate,16,17.056,0.291
+microsoft excel,microsoft word,16,13.011,0.036
+microsoft office,problem solving,16,2.513,0.019
+akuntansi,perpajakan,16,37.284,0.162
+english language,microsoft ms excel,16,17.714,0.356
+dll,word,16,25.986,0.296
+excel,visio,16,30.32,0.046
+power point,visio,16,95.604,0.144
+microsoft office word,power point,16,40.254,0.421
+komunikatif,manajemen waktu,16,3.763,0.017
+digital marketing,marketing,16,7.28,0.163
+akuntansi,microsoft office,16,2.081,0.162
+komunikasi dan interaksi,layanan pelanggan dan administrasi,16,31.12,0.065
+accurate,komunikatif,15,0.936,0.083
+mic. excel,mic. power point dan accsess,15,663.25,0.938
+mic. excel,mic. word,15,663.25,0.938
+mic. power point dan accsess,mic. word,15,707.467,1.0
+google sheet,microsoft excel,15,11.411,0.484
+canva,photoshop,15,9.789,0.093
+negosiasi,sales marketing,15,2.638,0.041
+canva,instagram,15,26.018,0.093
+excel,office application microsoft words,15,30.32,0.043
+office application microsoft words,powerpoint,15,129.415,1.0
+komunikatif,problem solving,15,2.065,0.016
+adobe illustrator,adobe photoshop,15,22.496,0.246
+communication,excel,15,1.166,0.038
+accurate,coretax,15,17.589,0.083
+bertanggung jawab,disiplin,15,242.652,0.938
+m. excel dan power point,m. office m. word,15,707.467,1.0
+adobe photoshop,canva,14,7.955,0.121
+canva,social media,14,13.773,0.087
+microsoft excel if,vlookup dan hlookup,14,663.25,1.0
+adobe premiere,canva,14,27.963,0.424
+microsoft office,photoshop,14,1.785,0.017
+css,html,14,558.526,0.737
+dll,power poin,14,171.954,0.259
+excel,power poin,14,26.53,0.04
+power poin,word,14,76.74,0.875
+adobe premiere,capcut,14,42.075,0.424
+komunikatif,negoisasi,14,3.363,0.015
+menguasai microsoft office word,power point,14,35.222,0.368
+komunikatif,pelayanan,14,5.854,0.015
+bertanggung jawab,dan ulet dalam bekerja,14,663.25,0.875
+dan ulet dalam bekerja,disiplin,14,258.829,1.0
+mengoperasikan mesin kasir pos,oracle,13,624.235,1.0
+bahasa inggris,microsoft ms word,13,4.578,0.107
+akuntansi,microsoft excel,13,3.097,0.131
+microsoft ms powerpoint,microsoft office,13,1.395,0.108
+negosiasi,sales and marketing,13,5.355,0.035
+google workspace,microsoft office,13,6.201,0.481
+english language,microsoft ms powerpoint,13,25.547,0.289
+marketing,microsoft office,13,0.703,0.055
+etc,pajak penghasilan pph pph,13,424.48,0.52
+etc,pasal ayat,13,424.48,0.52
+pajak penghasilan pph pph,pasal ayat,13,816.308,1.0
+marketing,pemasaran,13,14.491,0.055
+illustrator,photoshop,13,52.535,0.5
+leadership,problem solving,13,8.54,0.066
+data analysis,excel formulas,13,505.333,0.619
+data analysis,pivot tables,13,505.333,0.619
+excel formulas,pivot tables,13,816.308,1.0
+english,mandarin,13,29.919,0.149
+autocad,microsoft ms excel,13,2.633,0.053
+bertanggung jawab,komunikasi dan interaksi,13,34.767,0.812
+dan ulet dalam bekerja,komunikasi dan interaksi,13,39.734,0.929
+disiplin,komunikasi dan interaksi,13,13.568,0.317
+market place shopee,tokopedia,12,379.0,1.0
+komunikatif,teamwork,12,3.079,0.013
+pajak kup,pph,12,258.829,1.0
+microsoft office,sketchup,12,1.862,0.015
+css,php,12,418.895,0.632
+autocad,microsoft ms word,12,2.096,0.049
+excel,komunikatif,12,0.387,0.034
+autocad,komunikatif,12,0.551,0.049
+public speaking.,sales,12,4.243,0.14
+autocad,excel,12,1.479,0.049
+e-commerce,microsoft office,12,1.627,0.126
+google sheet,microsoft office,12,4.985,0.387
+marketing,sales marketing strategy,12,9.225,0.05
+microsoft office,perpajakan,12,3.36,0.015
+komunikasi dan interaksi,sales marketing,12,3.131,0.048
+administrasi,komputer,12,4.908,0.085
+marketing,public speaking.,12,6.222,0.05
+excel,outlook,12,19.149,0.034
+ms. excel,ms. powerpoint,12,303.2,0.4
+disiplin,komunikatif,12,3.304,0.293
+communication,komputer,12,1.775,0.031
+negosiasi dan komunikasi,sales dan marketing,12,92.278,0.174
+leadership,microsoft excel,12,1.436,0.061
+e-commerce,komunikatif,11,1.307,0.116
+photoshop,sketchup,11,13.925,0.109
+komunikatif,microsoft power point,11,1.971,0.012
+english,microsoft office,11,1.628,0.126
+adobe illustrator,corel draw,11,19.728,0.18
+komunikatif,public speaking.,11,1.444,0.012
+adobe illustrator,canva,11,11.886,0.18
+autocad,microsoft project,11,15.307,0.045
+microsoft word,power point,11,36.263,0.379
+administrasi,microsoft excel,11,1.84,0.078
+administrasi,excel,11,2.365,0.078
+capcut,photoshop,11,10.802,0.103
+accurate,jurnal akuntansi,11,23.033,0.061
+b b,sales,11,18.582,0.611
+komunikasi dan interaksi,sales,11,1.349,0.044
+komunikatif,pemasaran,11,3.105,0.012
+accurate,microsoft ms word,11,2.611,0.061
+microsoft excel,microsoft ms powerpoint,11,2.162,0.024
+english language,microsoft ms word,11,10.502,0.244
+bahasa inggris,negosiasi,11,2.6,0.09
+accurate,zahir,11,30.711,0.061
+ms. excel,office ms. word,11,353.733,0.367
+ms. powerpoint,office ms. word,11,758.0,0.786
+autocad,skecthup,11,31.635,0.045
+adobe illustrator,komunikatif,10,1.851,0.164
+canva,video editing,10,18.832,0.062
+komunikatif,team work,10,2.509,0.011
+microsoft ms excel,word,10,4.117,0.047
+canva,corel draw,10,6.795,0.062
+content creator,content writing,10,135.357,0.204
+css,javascript,10,507.751,0.526
+corel draw,desain grafis,10,28.79,0.103
+leadership,microsoft office,10,0.654,0.051
+instagram,tiktok,10,75.477,0.263
+digital marketing,social media,10,16.162,0.102
+coretax,perpajakan,10,46.139,0.2
+power point,word,10,7.901,0.09
+autocad,sap,10,16.592,0.041
+canva,excel,10,1.883,0.062
+google workspace,komunikatif,10,4.181,0.37
+accurate,perpajakan,10,12.746,0.055
+coretax,djp online,10,212.24,0.2
+bea materai,pajak kup,10,884.333,1.0
+bea materai,perencanaan pajak,10,1061.2,1.0
+bea materai,pph,10,258.829,1.0
+bea materai,ppn,10,312.118,1.0
+pajak kup,perencanaan pajak,10,884.333,0.833
+pajak kup,ppn,10,260.098,0.833
+perencanaan pajak,pph,10,258.829,1.0
+perencanaan pajak,ppn,10,312.118,1.0
+outlook,powerpoint,10,68.113,0.526
+komunikasi pemasaran,penjualan b b,10,884.333,0.833
+komunikasi pemasaran,penjualan b c,10,884.333,0.833
+penjualan b b,penjualan b c,10,1061.2,1.0
+adobe photoshop,coreldraw,10,35.186,0.086
+microsoft excel,microsoft office word,10,6.206,0.022
+host live,komunikatif,10,3.763,0.333
+administrasi,microsoft ms office,10,7.452,0.071
+excel,microsoft office,10,0.368,0.029
+accurate,pajak,10,8.622,0.055
+microsoft ms excel,microsoft ms office,10,4.933,0.047
+cekatan,teliti,10,140.37,0.37
+negosiasi,public speaking.,10,3.353,0.027
+canva,microsoft excel,10,1.465,0.062
+autocad,photoshop,10,4.271,0.041
+instalasi komputer,instalasi software,10,1061.2,1.0
+instalasi komputer,memahami server,10,1061.2,1.0
+instalasi komputer,networking,10,505.333,1.0
+instalasi komputer,troubleshooting,10,758.0,1.0
+instalasi software,memahami server,10,1061.2,1.0
+instalasi software,networking,10,505.333,1.0
+instalasi software,troubleshooting,10,758.0,1.0
+memahami server,networking,10,505.333,1.0
+memahami server,troubleshooting,10,758.0,1.0
+networking,troubleshooting,10,360.952,0.476
+negosiasi dan komunikasi,negosiasi dan marketing,10,53.033,0.145
+microsoft office,sales,10,0.369,0.012
+bertanggung jawab,layanan pelanggan dan administrasi,10,301.477,0.625
+dan ulet dalam bekerja,layanan pelanggan dan administrasi,10,344.545,0.714
+disiplin,layanan pelanggan dan administrasi,10,117.65,0.244
+komunikasi dan interaksi,selling,10,4.918,0.04
+accurate,excel,10,1.675,0.055
+fotografi videografi,gemar menulis,10,1061.2,1.0
+digital marketing,komunikatif,9,1.037,0.092
+administrasi,microsoft ms word,9,2.742,0.064
+facebook,instagram,9,167.558,0.6
+negosiasi,promosi,9,8.651,0.024
+microsoft ms excel,pajak,9,6.594,0.042
+microsoft ms word,microsoft project,9,12.473,0.036
+capcut,premiere,9,27.048,0.084
+adobe ilustrator,canva,9,17.448,0.265
+leadership,microsoft ms office,9,4.8,0.046
+accounting,microsoft ms excel,9,8.153,0.164
+html,php,9,426.375,0.643
+canva,desain grafis,9,15.611,0.056
+ms.excel,ms.powerpoint,9,964.727,0.818
+ms.excel,office microsoft office ms.word,9,964.727,0.818
+ms.powerpoint,office microsoft office ms.word,9,1179.111,1.0
+adobe illustrator,desain grafis,9,41.203,0.148
+microsoft ms excel,microsoft office,9,0.544,0.042
+akuntansi,coretax,9,19.295,0.091
+digital marketing,seo,9,23.204,0.092
+microsoft office,penjualan,9,0.816,0.011
+adobe illustrator,capcut,9,14.633,0.148
+host live,public speaking.,9,37.019,0.3
+access,power point,9,50.614,0.529
+excel,microsoft word,9,9.41,0.026
+microsoft office word,visio,9,157.086,0.237
+komunikatif,target oriented,9,3.079,0.01
+accurate,word,9,4.361,0.05
+e-commerce,host streamer live,9,59.138,0.095
+accurate,microsoft ms powerpoint,9,4.397,0.05
+microsoft office,spreadsheet,9,6.1,0.011
+autocad,sketchup d,9,35.295,0.037
+komputer,negosiasi,9,1.411,0.049
+adobe photoshop,photoshop,9,8.152,0.078
+hlookup,pivot,9,374.541,0.6
+komunikasi dan interaksi,komunikasi dengan customer,9,13.28,0.036
+autocad,enscape,9,32.354,0.037
+negosiasi,problem solving,9,3.165,0.024
+salam,sapa,9,1179.111,1.0
+salam,sopan,9,884.333,1.0
+sapa,sopan,9,884.333,1.0
+pajak,pph,9,34.257,0.132
+autocad,teknik sipil,9,29.865,0.037
+penjualan atau marketing,sales marketing,9,10.988,0.17
+adobe ilustrator,adobe photoshop,9,24.216,0.265
+communication,penjualan,9,1.725,0.023
+excel,power point.,9,30.32,0.026
+communication,ms.office,9,6.803,0.023
+capcut,editing,9,23.489,0.084
+negosiasi,persuasif,8,11.535,0.022
+administrasi,microsoft ms excel,8,2.827,0.057
+komunikatif,marketing and sales.,8,2.377,0.009
+bimbingan anak berkebutuhan khusus,dalam mengajar,8,884.333,0.667
+bimbingan anak berkebutuhan khusus,menangani anak - anak berkebutuhan khusus,8,884.333,0.667
+dalam mengajar,menangani anak - anak berkebutuhan khusus,8,1326.5,1.0
+aktif komunikatif,percaya diri,8,624.235,1.0
+adobe photoshop,desain grafis,8,19.26,0.069
+akuntansi,microsoft ms excel,8,4.026,0.081
+adobe ilustrator,corel draw,8,25.742,0.235
+komunikatif,powerpoint,8,1.101,0.009
+html,javascript,8,551.273,0.571
+corel draw,microsoft office,8,1.062,0.082
+komunikasi kemampuan komunikasi lisan dan tulisan,termasuk dalam bahasa inggris.,8,1326.5,1.0
+administrasi,canva,8,3.74,0.057
+data entry,microsoft excel,8,7.861,0.333
+coretax,microsoft office,8,2.061,0.16
+akuntansi,pph,8,20.915,0.081
+bea materai,perhitungan pajak,8,1061.2,0.8
+pajak kup,perhitungan pajak,8,884.333,0.667
+perencanaan pajak,perhitungan pajak,8,1061.2,0.8
+perhitungan pajak,pph,8,258.829,1.0
+perhitungan pajak,ppn,8,312.118,1.0
+jurnal akuntansi,microsoft excel,8,6.738,0.286
+analisa,komunikatif,8,6.021,0.533
+kerja tim,strategi penjualan,8,406.201,0.727
+communication,penjualan atau marketing,8,4.107,0.021
+pemasaran,sales,8,6.081,0.2
+akuntansi,akuntansi dan perpajakan,8,38.979,0.081
+accounting,finance,8,51.452,0.145
+english,komunikatif,8,1.038,0.092
+coretax,microsoft excel,8,3.773,0.16
+accurate,brevet a b,8,24.686,0.044
+microsoft office,recruitment process,8,6.061,0.01
+kemampuan komunikasi,pelayanan pelanggan,8,106.386,0.381
+kemampuan komunikasi,strategi penjualan,8,212.772,0.381
+pelayanan pelanggan,strategi penjualan,8,117.584,0.211
+pelayanan pelanggan s senyum,salam,8,1179.111,1.0
+pelayanan pelanggan s senyum,sapa,8,1179.111,1.0
+pelayanan pelanggan s senyum,sopan,8,884.333,1.0
+microsoft excel,microsoft outlook,8,18.866,0.018
+microsoft office,microsoft outlook,8,10.303,0.01
+communication,problem solving,8,2.655,0.021
+instalasi komputer,memahami jaringan lanwanman,8,1061.2,0.8
+instalasi software,memahami jaringan lanwanman,8,1061.2,0.8
+memahami jaringan lanwanman,memahami server,8,1061.2,1.0
+memahami jaringan lanwanman,networking,8,505.333,1.0
+memahami jaringan lanwanman,troubleshooting,8,758.0,1.0
+komunikatif,teliti,8,3.226,0.009
+adobe photoshop,adobe premiere,8,22.178,0.069
+mampu berkomunikasi dengan baik dan bisa mengendarai kendaraan roda dapat berkomunikasi dengan baik,membina relationship,8,1326.5,1.0
+disiplin,teliti,8,73.951,0.195
+negosiasi,target oriented,8,6.991,0.022
+komunikasi dan interaksi,microsoft excel,8,0.761,0.032
+communication,negoisasi,8,4.632,0.021
+communication,target oriented,8,6.596,0.021
+marketing,penjualan atau marketing,8,6.73,0.034
+access,m. office word,8,624.235,0.471
+access,outlook,8,262.836,0.471
+access,powerpoint,8,60.901,0.471
+excel,m. office word,8,30.32,0.023
+m. office word,outlook,8,558.526,1.0
+m. office word,powerpoint,8,129.415,1.0
+lazada,tokopedia,8,379.0,1.0
+accurate,pph,7,10.01,0.039
+accurate,microsoft excel if,7,29.315,0.039
+accurate,vlookup dan hlookup,7,25.651,0.039
+bahasa mandarin lisan tulisan,microsoft office,7,2.199,0.171
+autocad d d,sketchup,7,40.681,0.318
+tax,tax accounting,7,294.778,0.5
+komunikatif,mengajar,7,2.195,0.007
+bahasa inggris,komputer,7,3.309,0.057
+internet,komputer,7,17.553,0.304
+canva,premiere,7,13.982,0.043
+content creator,copy writing,7,63.167,0.143
+komunikatif,word,7,0.653,0.007
+capcut,illustration,7,23.141,0.065
+b b,sales marketing,7,25.164,0.389
+communication,digital marketing,7,1.944,0.018
+capcut,video editing,7,19.836,0.065
+adobe photoshop,microsoft excel,7,1.423,0.06
+corel draw,microsoft excel,7,1.702,0.072
+komunikasi yang baik dengan pihak lain.,ms excel,7,41.686,0.13
+capcut,instagram,7,18.27,0.065
+capcut,tiktok,7,18.763,0.065
+digital marketing,sem,7,32.957,0.071
+autocad,membuat rencana anggaran kerja rab,7,23.228,0.028
+corel draw,mesin printing,7,63.818,0.072
+bahasa inggris,mengajar,7,16.913,0.057
+access,microsoft word,7,150.677,0.412
+access,visio,7,273.103,0.412
+microsoft word,visio,7,160.095,0.241
+autocad,communication,7,0.774,0.028
+komputer ms. office,komunikatif,7,11.289,1.0
+accurate,finance,7,13.68,0.039
+adobe illustrator,premiere pro,7,173.967,0.115
+pajak,ppn,7,32.13,0.103
+excel,sales,7,0.608,0.02
+keuangan,microsoft office,7,3.606,0.28
+penjualan dan pemasaran,sales,7,3.67,0.121
+microsoft excel,photoshop,7,1.634,0.016
+target oriented,team work,7,50.023,0.212
+negotiation,sales,7,7.883,0.259
+etc,pajak,7,43.696,0.28
+pajak,pajak penghasilan pph pph,7,84.032,0.103
+pajak,pasal ayat,7,84.032,0.103
+microsoft office,power point,7,0.812,0.008
+communication,time management,7,4.141,0.018
+microsoft office word,powerpoint,7,23.84,0.184
+canva,microsoft ms excel,7,2.166,0.043
+komunikatif,sales marketing,7,0.482,0.007
+accurate,administrasi,7,2.911,0.039
+komputer,komunikasi dan interaksi,7,1.628,0.038
+negosiasi,negosiasi dan marketing,7,6.961,0.019
+asian food,chinese food,7,675.309,0.7
+microsoft excel,pph,7,4.026,0.016
+meta ads,seo,7,58.956,0.233
+after effect,canva,7,46.139,0.7
+bahasa inggris,microsoft power point,7,9.665,0.057
+bahasa mandarin aktif,microsoft office,7,6.439,0.5
+enscape,sketchup,7,74.582,0.583
+canvassing,marketing,7,14.187,0.318
+autocad,microsoft ms powerpoint,7,2.516,0.028
+google ads,meta ads,7,123.807,0.35
+instagram,microsoft office,7,2.372,0.184
+communication,english,7,2.189,0.018
+communication,pemasaran dan penjualan,7,6.349,0.018
+english,komputer,7,4.64,0.08
+autocad,solidwork,7,43.138,0.028
+microsoft office,pajak,7,1.326,0.008
+chinese hsk,mandarin,7,127.417,0.636
+analytical,highly motivated skills and problem solving skills,7,1516.0,1.0
+analytical,leadership,7,53.868,1.0
+highly motivated skills and problem solving skills,leadership,7,53.868,1.0
+mic. office excel,power point,7,95.604,1.0
+mic. office excel,world,7,1516.0,1.0
+power point,world,7,95.604,0.063
+exel,power point,7,60.839,0.636
+cekatan,disiplin,7,67.104,0.259
+negosiasi dan komunikasi,penjualan dan pemasaran,7,18.562,0.101
+kasir,pelayanan pelanggan,7,42.497,0.152
+komunikasi dan interaksi,marketing,7,1.259,0.028
+excel,mic. office word,7,30.32,0.02
+mic. office word,power point.,7,1179.111,1.0
+live di eccomerse untuk promo produk,live host tiktok,7,412.689,0.778
+customer service,microsoft excel,7,2.144,0.091
+canva,editing,7,12.142,0.043
+accurate,spt badan dan spt orang pribadi,6,43.972,0.033
+canva,copywriting,6,30.421,0.037
+autocad d d,microsoft office,6,3.512,0.273
+komunikatif,pelayanan kepada pelanggan,6,2.419,0.006
+css,mysql,6,197.127,0.316
+social media,video editing,6,27.152,0.09
+communication,promosi,6,5.442,0.015
+bahasa indonesia,bahasa inggris,6,52.19,0.6
+bahasa inggris,microsoft ms excel,6,2.45,0.049
+adobe,capcut,6,37.192,0.375
+adobe ilustrator,photoshop,6,18.542,0.176
+microsoft ms office,pajak,6,9.271,0.059
+administrasi,word,6,3.732,0.043
+javascript,php,6,361.773,0.545
+accounting,tax accounting,6,64.315,0.109
+communication skill,sales and marketing,6,17.492,0.115
+microsoft office,teamwork,6,1.756,0.007
+komunikasi presentasi,negosiasi,6,8.651,0.3
+adobe photoshop,microsoft office,6,0.666,0.052
+adobe photoshop,sketchup,6,6.613,0.052
+canva,tiktok,6,10.689,0.037
+drafter d dan d,penyususnan rencana anggaran biaya rab,6,1768.667,1.0
+desain adobe photoshop,desain grafis,6,55.853,0.2
+administrasi,keuangan,6,18.063,0.043
+customer service,sales,6,2.369,0.078
+akuntansi,laporan keuangan,6,24.737,0.061
+english,public speaking.,6,8.51,0.069
+farmasi,farmasi dan kesehatan pengetahuan mendalam tentang produk farmasi dan regulasi kesehatan.,6,204.077,0.231
+interpersonal and communication skill,microsoft office,6,3.512,0.273
+customer service,microsoft office,6,1.004,0.078
+negosiasi,sales marketing strategy,6,2.983,0.016
+sales,sales executive,6,30.407,0.017
+mengolah data.,presentasi,6,192.945,1.0
+mengolah data.,sales,6,30.407,1.0
+accurate,microsoft ms office,6,3.483,0.033
+customer service,excel,6,2.363,0.078
+customer service,negosiasi,6,2.247,0.078
+canva,power point,6,3.563,0.037
+english language,sales and marketing,6,20.213,0.133
+autocad,lumion,6,28.759,0.024
+customer and service oriented,komunikatif,6,1.935,0.171
+video,video editing,6,90.96,0.3
+administrasi,penjualan,6,3.18,0.043
+ms office ms excel,ms power point,6,393.037,1.0
+ms office ms excel,ms word,6,884.333,1.0
+ms power point,ms word,6,196.519,0.222
+data entry,microsoft office,6,3.22,0.25
+communication,mandarin,6,3.08,0.015
+excel,mandarin,6,3.432,0.017
+administrasi,ms office word,6,6.021,0.043
+negosiasi dan marketing,sales,6,6.291,0.207
+adobe illustrator,indesign,6,149.115,0.098
+accurate,spt,6,39.087,0.033
+akuntansi,spt badan dan spt orang pribadi,6,80.394,0.061
+google sheet,komunikatif,6,2.185,0.194
+microsoft excel,microsoftâ power point,6,23.582,0.013
+microsoft office,microsoftâ power point,6,12.879,0.007
+akuntansi,ppn,6,18.916,0.061
+administrasi,purchasing,6,21.504,0.043
+administrasi,kasir,6,9.817,0.043
+kerja tim,penjualan dan pemasaran,6,99.799,0.545
+penjualan dan pemasaran,strategi penjualan,6,57.779,0.103
+penjualan atau marketing,sales,6,3.442,0.113
+microsoft excel,pajak,6,2.081,0.013
+corel draw,microsoft ms word,6,2.658,0.062
+dicipline,good attitude,6,1768.667,1.0
+dicipline,responsibility,6,1768.667,1.0
+dicipline,target oriented,6,321.576,1.0
+good attitude,responsibility,6,1768.667,1.0
+good attitude,target oriented,6,321.576,1.0
+responsibility,target oriented,6,321.576,1.0
+cekatan dan cepat beradaptasi dengan sekitar tim,rajin,6,964.727,1.0
+corel draw,illustration,6,21.88,0.062
+corel draw,premiere,6,19.891,0.062
+english,sales,6,2.097,0.069
+komunikatif,product knowledge,6,8.467,0.006
+microsoft office,product knowledge,6,9.659,0.007
+komunikatif,mandarin,6,1.278,0.006
+kemampuan system fifo,warehouse management,6,454.8,0.3
+lifo,warehouse management,6,413.455,0.273
+accurate,laporan keuangan,6,13.53,0.033
+excel,sales marketing strategy,6,3.137,0.017
+penjualan atau marketing,sales marketing strategy,6,20.713,0.113
+komunikasi dan negosiasi dengan baik.,komunikasi dengan customer,6,22.871,0.062
+komunikasi dan interaksi,penjualan,6,1.808,0.024
+capcut,video,6,29.753,0.056
+komunikatif,rajin,6,6.158,0.006
+erp,microsoft ms excel,6,9.058,0.182
+accurate,power point,6,3.169,0.033
+autocad,membuat gambar kerja,6,16.177,0.024
+microsoft ms excel,negosiasi,6,0.812,0.028
+shopee,tokopedia,6,90.96,0.24
+software,technology information and communication,6,461.391,0.261
+adobe photoshop,illustrator,6,21.111,0.052
+coreldraw marketing material production,illustrator,6,408.154,1.0
+coreldraw marketing material production,photoshop,6,105.069,1.0
+adobe ilustrator,desain adobe photoshop,6,62.424,0.176
+adobe ilustrator,sketchup,6,22.563,0.176
+desain adobe photoshop,sketchup,6,25.571,0.2
+menguasai kelistrikan,merakit panel listrik,6,1516.0,1.0
+problem solving,time management,6,16.88,0.073
+canva,illustrator,6,15.211,0.037
+membuat gambar kerja,microsoft ms excel,6,18.683,0.375
+if,pivot,6,267.529,0.429
+adobe illustrator,adobe premiere,6,31.63,0.098
+adobe ilustrator,adobe premiere,6,56.749,0.176
+membuat laporan keuangan.,microsoft excel,6,8.843,0.375
+microsoft office,ms. outlook,6,12.879,0.007
+canva,komunikatif,6,0.421,0.037
+canvassing,pitching,6,482.364,0.273
+pitching,sales,6,30.407,1.0
+farmasi,farmasi administrasi,6,408.154,0.231
+komunikatif,manajemen dan marketing yang baik,6,6.774,0.006
+penjualan,promosi,6,14.946,0.042
+kerjasama dalam tim,komunikatif,6,6.158,0.545
+accurate,google sheet,6,11.348,0.033
+negosiasi,networking,6,8.239,0.016
+negosiasi,penjualan dan pemasaran,6,2.983,0.016
+komunikasi dengan baik,microsoft ms powerpoint,6,16.079,0.182
+komunikasi dengan baik,microsoft ms word,6,7.812,0.182
+autocad,leadership,6,1.314,0.024
+leadership,photoshop,6,3.2,0.03
+coretax,e-faktur,6,67.023,0.12
+kemampuan komunikasi,kerja tim,6,275.636,0.286
+kemampuan komunikasi,pelayanan pelanggan s senyum,6,379.0,0.286
+kemampuan komunikasi,salam,6,336.889,0.286
+kemampuan komunikasi,sapa,6,336.889,0.286
+kemampuan komunikasi,sopan,6,252.667,0.286
+kerja tim,pelayanan pelanggan,6,152.325,0.545
+kerja tim,pelayanan pelanggan s senyum,6,723.545,0.545
+kerja tim,salam,6,643.152,0.545
+kerja tim,sapa,6,643.152,0.545
+kerja tim,sopan,6,482.364,0.545
+pelayanan pelanggan,pelayanan pelanggan s senyum,6,209.447,0.158
+pelayanan pelanggan,salam,6,186.175,0.158
+pelayanan pelanggan,sapa,6,186.175,0.158
+pelayanan pelanggan,sopan,6,139.632,0.158
+pelayanan pelanggan s senyum,strategi penjualan,6,418.895,0.75
+salam,strategi penjualan,6,372.351,0.667
+sapa,strategi penjualan,6,372.351,0.667
+sopan,strategi penjualan,6,279.263,0.5
+english,microsoft excel,6,1.626,0.069
+microsoft ms word,microsoft outlook,6,25.778,0.024
+excel,time management,6,3.955,0.017
+enscape,lumion,6,589.556,0.5
+enscape,microsoft office,6,6.439,0.5
+akuntansi,excel,6,1.838,0.061
+bea materai,e sistem pajak,6,1061.2,0.6
+e sistem pajak,pajak kup,6,884.333,1.0
+e sistem pajak,perencanaan pajak,6,1061.2,1.0
+e sistem pajak,perhitungan pajak,6,1326.5,1.0
+e sistem pajak,pph,6,258.829,1.0
+e sistem pajak,ppn,6,312.118,1.0
+communication,microsoft power point,6,2.591,0.015
+accurate,myob,6,27.06,0.033
+microsoft office,negoisasi,6,1.644,0.007
+komunikatif,power point,6,0.61,0.006
+adobe ilustrator,corel dan photoshop.,6,89.176,0.176
+desain adobe photoshop,komunikatif,6,2.258,0.2
+excel. - menguasai sistem fifo,menguasai microsoft office word amp,6,1768.667,1.0
+memiliki kemampuan komunikasi yang baik,menguasai ms. office dan aplikasi handphone,6,442.167,0.25
+gmp,haccp,6,442.167,0.75
+gmp,iso,6,418.895,0.75
+coreldraw,photoshop,6,24.247,0.231
+menguasai microsoft office excel,word,6,87.702,1.0
+excel,power point komunikatif kerjasama tim,6,30.32,0.017
+obras,overdeck,6,1768.667,1.0
+etc,excel,6,7.277,0.24
+english language,komunikatif,6,1.505,0.133
+communication,telemarketing,6,13.605,0.015
+membuat laporan keuangan.,microsoft office,6,4.829,0.375
+paid ads,seo,6,252.667,1.0
+cekatan,komunikatif,6,2.509,0.222
+adobe after effect,adobe photoshop,6,60.989,0.667
+marketing,negoisasi,6,5.692,0.025
+erp,microsoft excel,6,4.288,0.182
+erp,microsoft office,6,2.342,0.182
+autocad,rendering,6,32.354,0.024
+ms office exel,ms office word,6,106.12,0.75
+autocad,ms project,6,23.53,0.024
+customer service,pelayanan pelanggan,6,21.761,0.078
+akuntansi dan perpajakan,etc,6,115.767,0.273
+akuntansi dan perpajakan,pajak penghasilan pph pph,6,222.629,0.273
+akuntansi dan perpajakan,pasal ayat,6,222.629,0.273
+hospitality and customer service,microsoft office,6,7.727,0.6
+communication,mesin,6,10.204,0.015
+b b and b c,marketing dan sales,6,205.394,0.194
+marketing dan sales,negosiasi dan komunikasi,6,92.278,0.6
+business develeopment,sales,6,30.407,1.0
+leadership,manager dan supervisor,6,35.912,0.03
+komunikasi dan interaksi,layanan pelanggan,6,15.102,0.024
+baik individu maupun tim,layanan pelanggan dan administrasi,6,482.364,1.0
+baik individu maupun tim,mampu bekerja orientasi target,6,1768.667,1.0
+layanan pelanggan dan administrasi,mampu bekerja orientasi target,6,482.364,0.273
+microsoft power point,microsoft word,6,34.851,0.095
+komunikasi pemasaran,pemasaran b b,6,884.333,0.5
+komunikasi pemasaran,pemasaran b c,6,884.333,0.5
+pemasaran b b,pemasaran b c,6,1768.667,1.0
+pemasaran b b,penjualan b b,6,1061.2,1.0
+pemasaran b b,penjualan b c,6,1061.2,1.0
+pemasaran b c,penjualan b b,6,1061.2,1.0
+pemasaran b c,penjualan b c,6,1061.2,1.0
+event and communication,event concept,5,1263.333,0.833
+canva,e-commerce,5,3.469,0.031
+accurate,e-faktur,5,15.429,0.028
+pajak import pph,pph,5,184.878,0.714
+administrasi,microsoft ms powerpoint,5,3.136,0.035
+promotion,sales,5,12.67,0.417
+capcut,social media,5,7.401,0.047
+bekerja keras dan tepat waktu,disiplin,5,258.829,1.0
+corel draw,sketchup,5,6.59,0.052
+content creator,e-commerce,5,11.398,0.102
+google,instagram,5,155.146,0.556
+sap,sketchup,5,24.588,0.192
+microsoft office,pelayanan kepada pelanggan,5,2.3,0.006
+bahasa inggris,microsoft ms powerpoint,5,3.624,0.041
+komputer,microsoft ms excel,5,1.354,0.027
+komputer,microsoft ms word,5,1.167,0.027
+capcut,editing video dan gambar,5,24.794,0.047
+keuangan administrasi,word,5,43.851,0.5
+komunikatif,microsoft office excel,5,2.566,0.005
+canva,illustration,5,10.986,0.031
+laravel,php,5,331.625,0.5
+microsoft office,social media,5,0.961,0.006
+capcut,desain grafis,5,13.05,0.047
+communication,powerpoint,5,1.659,0.013
+komunikasi dan negosiasi dengan baik.,microsoft office,5,0.671,0.052
+komunikasi yang baik dengan pihak lain.,ms office ms word,5,51.715,0.093
+komunikasi yang baik dengan pihak lain.,ms power point,5,36.392,0.093
+instagram ads,tiktok ads,5,803.939,0.455
+e-commerce,sales,5,1.6,0.053
+corel draw,desain adobe photoshop,5,18.234,0.052
+corel draw,illustrator,5,21.039,0.052
+bahasa inggris,powerpoint,5,5.304,0.041
+komunikatif,time management,5,1.227,0.005
+canva,desain adobe photoshop,5,10.986,0.031
+sales and marketing,sales data analysis,5,126.333,0.071
+communication,kasir,5,2.958,0.013
+admin,microsoft ms excel,5,6.387,0.128
+english language,excel,5,3.369,0.111
+excel,negosiasi,5,0.412,0.014
+negosiasi,word,5,1.192,0.014
+gambar teknik,komunikatif,5,5.132,0.455
+autocad,ds max,5,30.813,0.02
+autocad,sketch up,5,17.974,0.02
+autocad,word,5,1.783,0.02
+komputer,word,5,2.383,0.027
+accurate,laporan keuangan pembukuan,5,58.63,0.028
+accurate,leadership,5,1.488,0.028
+akuntansi,finance,5,17.865,0.051
+capcut,microsoft office,5,0.602,0.047
+e-commerce,microsoft excel,5,1.241,0.053
+microsoft excel,penjualan,5,0.83,0.011
+manajemen waktu,problem solving,5,13.481,0.104
+pajak,pajak import pph,5,111.471,0.074
+microsoft office,pemasaran,5,1.61,0.006
+design corel,photoshop dan lainnya,5,1516.0,0.714
+adobe illustrator,photshop,5,173.967,0.082
+capcut,indesign,5,70.841,0.047
+capcut,photshop,5,99.178,0.047
+capcut,premiere pro,5,70.841,0.047
+indesign,photshop,5,1516.0,0.714
+indesign,premiere pro,5,1082.857,0.714
+photshop,premiere pro,5,1516.0,1.0
+akuntansi,spt,5,59.551,0.051
+canvassing,field sales - strong communication and negotiation,5,482.364,0.227
+canvassing,sales target,5,482.364,0.227
+field sales - strong communication and negotiation,sales target,5,2122.4,1.0
+sales,target oriented,5,4.607,0.014
+microsoft ms excel,sales and marketing,5,3.559,0.023
+microsoft ms powerpoint,sales and marketing,5,6.317,0.042
+akuntansi,pajak,5,7.882,0.051
+excel,microsoft offi ce word,5,30.32,0.014
+microsoft offi ce word,powerpoint,5,129.415,1.0
+penjualan,penjualan atau marketing,5,7.05,0.035
+marketing,microsoft ms office,5,2.207,0.021
+blibli,ecommerce admin marketplace,5,1179.111,0.556
+blibli,shopee,5,235.822,0.556
+ecommerce admin marketplace,shopee,5,424.48,1.0
+b b,b c b g sales.,5,589.556,0.278
+creative,dicipline,5,1263.333,0.714
+creative,good attitude,5,1263.333,0.714
+creative,responsibility,5,1263.333,0.714
+creative,target oriented,5,229.697,0.714
+creative,team work,5,168.444,0.714
+dicipline,team work,5,196.519,0.833
+good attitude,team work,5,196.519,0.833
+responsibility,team work,5,196.519,0.833
+coretax,microsoft ms excel,5,4.982,0.1
+microsoft office word,microsoft power point,5,22.164,0.132
+e-commerce,komunikasi dan interaksi,5,2.252,0.053
+microsof office,microsoft excel,5,6.936,0.294
+capcut,vn,5,99.178,0.047
+desain,desain grafis,5,69.816,0.25
+microsoft office ms. word,ms. access,5,2122.4,1.0
+microsoft office ms. word,ms. excel,5,353.733,1.0
+microsoft office ms. word,ms. power point,5,1768.667,1.0
+ms. access,ms. excel,5,353.733,1.0
+ms. access,ms. power point,5,1768.667,1.0
+ms. excel,ms. power point,5,294.778,0.167
+excel,perpajakan,5,3.296,0.014
+microsoft excel,microsoft ms excel,5,0.554,0.011
+english language,microsoft ms office,5,11.674,0.111
+accounting,administrasi,5,6.842,0.091
+accounting,jurnal akuntansi,5,34.455,0.091
+autocad,d,5,12.688,0.02
+autocad,gambar teknik,5,19.608,0.02
+administrasi,negosiasi dan komunikasi,5,5.454,0.035
+asian food,masak western food,5,1061.2,0.5
+asian food,nusantara,5,1061.2,0.5
+chinese food,masak western food,5,964.727,0.455
+chinese food,nusantara,5,964.727,0.455
+masak western food,nusantara,5,2122.4,1.0
+negosiasi,negosiasi dengan supplier,5,13.108,0.014
+bpjs,payroll,5,398.947,0.714
+microsoft excel,payroll,5,6.206,0.011
+laravel,vue,5,758.0,0.5
+komunikatif,percaya diri,5,3.32,0.005
+meta ads,sem,5,76.899,0.167
+sem,social media,5,34.432,0.217
+coretax,pajak,5,15.606,0.1
+email,microsoft office,5,2.146,0.167
+negosiasi,pemasaran,5,3.605,0.014
+adobe premiere,after effect,5,160.788,0.152
+canva,video,5,16.478,0.031
+akuntansi,membuat laporan keuangan.,5,33.497,0.051
+aplikasi e-billing,e-faktur,5,558.526,1.0
+aplikasi e-billing,e-filling,5,2122.4,1.0
+e-faktur,e-filling,5,558.526,0.263
+komunikatif,manajemen,5,3.136,0.005
+marketing,social media,5,3.327,0.021
+google workspace,microsoft excel,5,4.367,0.185
+salam,santun,5,1179.111,0.556
+santun,sapa,5,1179.111,1.0
+santun,sopan,5,884.333,1.0
+leadership,marketing,5,1.132,0.025
+leadership,sales,5,0.772,0.025
+administration,excel,5,8.422,0.278
+lumion,microsoft office,5,7.155,0.556
+microsoft power point,microsoft project,5,27.168,0.079
+komunikasi dan negosiasi dengan baik.,sales marketing,5,3.37,0.052
+content writing,storytelling,5,301.477,0.312
+canva,digital marketing,5,3.363,0.031
+instagram,social media,5,20.841,0.132
+microsoft office,visio,5,4.025,0.006
+keuangan,keuangan akutansi dan perpajakan,5,235.822,0.2
+ols,opm,5,2122.4,1.0
+ols,otdr,5,2122.4,1.0
+opm,otdr,5,2122.4,1.0
+microsoft office,sales marketing,5,0.393,0.006
+digital marketing,meta ads,5,18.048,0.051
+digital marketing advertise google ads,meta ads,5,353.733,1.0
+digital marketing advertise google ads,youtube ads,5,1768.667,1.0
+meta ads,youtube ads,5,294.778,0.167
+b b and b c,sales,5,4.904,0.161
+accounting,microsoft ms powerpoint,5,8.039,0.091
+accounting,microsoft ms word,5,3.906,0.091
+blibli,tokopedia,5,210.556,0.556
+leadership,problem analysis and problem solving,5,16.834,0.025
+autocad,rab,5,35.949,0.02
+after effect,capcut,5,49.589,0.5
+bisa mengajar kurikulum internasional,kemampuan komunikasi yang baik dan efektif,5,2122.4,1.0
+an dengan baik kerjasama tim,excel,5,30.32,1.0
+an dengan baik kerjasama tim,menguasai microsoft office word,5,279.263,1.0
+an dengan baik kerjasama tim,power point dapat membaca qur,5,2122.4,1.0
+excel,power point dapat membaca qur,5,30.32,0.014
+menguasai microsoft office word,power point dapat membaca qur,5,279.263,0.132
+revit,sketchup,5,45.663,0.357
+autocad,menguasai komputer microsoft office,5,43.138,0.02
+microsoft excel,word,5,0.974,0.011
+microsoft excel,spreadsheet,5,6.206,0.011
+accounting,excel,5,2.756,0.091
+excel,internet,5,6.591,0.014
+digital marketing,komputer,5,2.943,0.051
+digital marketing,sosial media,5,20.824,0.051
+komputer,marketing,5,1.212,0.027
+microsof office ms. word,ms. excel,5,353.733,1.0
+microsof office ms. word,ms. power point.,5,2122.4,1.0
+ms. excel,ms. power point.,5,353.733,0.167
+adobe photoshop,content creator,5,9.335,0.043
+communication,negosiasi dan marketing,5,4.691,0.013
+negosiasi dan komunikasi,sales,5,2.203,0.072
+sales,telemarketing,5,12.67,0.014
+excel,komunikasi dan negosiasi dengan baik.,5,1.579,0.014
+microsoft excel,negosiasi,5,0.32,0.011
+communication,manajemen waktu,5,2.834,0.013
+administrasi,bahasa inggris,5,3.085,0.035
+adobe photoshop,video editing,5,13.069,0.043
+membuat gambar kerja perencanaan ded,shop drawing asbuilt drawing,5,2122.4,1.0
+excel,microsoft ms excel,5,0.712,0.014
+marketing,team work,5,4.954,0.021
+sales marketing,target oriented,5,9.804,0.03
+autocad,drafter,5,21.569,0.02
+communication,selling skill,5,15.117,0.013
+informasi obat-obatan,pelayanan obat,5,829.062,0.625
+komputer,microsoft excel,5,0.641,0.027
+leadership,negosiasi,5,0.732,0.025
+computer,excel,5,13.782,0.455
+e-commerce,excel,5,1.596,0.053
+ai-tools chatgpt,copilot,5,2122.4,1.0
+ai-tools chatgpt,dsb,5,1179.111,1.0
+ai-tools chatgpt,excel,5,30.32,1.0
+ai-tools chatgpt,gemini,5,1516.0,1.0
+ai-tools chatgpt,mic. office word,5,1516.0,1.0
+ai-tools chatgpt,power point.,5,1179.111,1.0
+copilot,dsb,5,1179.111,1.0
+copilot,excel,5,30.32,1.0
+copilot,gemini,5,1516.0,1.0
+copilot,mic. office word,5,1516.0,1.0
+copilot,power point.,5,1179.111,1.0
+dsb,excel,5,16.844,0.556
+dsb,gemini,5,842.222,0.556
+dsb,mic. office word,5,842.222,0.556
+dsb,power point.,5,655.062,0.556
+excel,gemini,5,21.657,0.014
+gemini,mic. office word,5,1082.857,0.714
+gemini,power point.,5,842.222,0.714
+administrasi,pelayanan pelanggan,5,9.903,0.035
+kasir,komputer,5,6.269,0.109
+leader ship menciptakan suasana kerja yang nyaman,menyenangkan dan efektif sehingga team work target perusahaan berjalan dengan baik,5,2122.4,1.0
+canva,komputer,5,1.791,0.031
+adobe indesign,coreldraw,5,255.096,0.625
+communication,manajemen,5,7.558,0.013
+communication,penjualan dan pemasaran,5,2.346,0.013
+excel,komunikasi dan interaksi,5,0.611,0.014
+bahasa inggris,communication,5,1.115,0.041
+komunikasi dan interaksi,negoisasi,5,4.552,0.02
+autocad,gambar d sketch up,5,43.138,0.02
+akuntansi menyusun dan menyajikan laporan keuangan,menghitung pajak.,5,2122.4,1.0
+english,time management,5,13.258,0.057
+canva,facebook,5,21.971,0.031
+accurate accounting online software,microsoft excel,5,5.36,0.227
+marketing,pemasaran dan penjualan,5,7.431,0.021
+customer service,komunikasi dan interaksi,5,2.779,0.065
+komunikasi dan negosiasi dengan baik.,negosiasi,5,1.502,0.052
+communication,selling,5,1.564,0.013

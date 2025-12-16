@@ -1,0 +1,51 @@
+======================================================================
+SKILLS DEMAND ANALYSIS SUMMARY
+======================================================================
+
+📊 OVERVIEW
+----------------------------------------------------------------------
+Total Jobs Analyzed:    100
+Total Unique Skills:    255
+Total Categories:       6
+Avg Skills per Job:     3.36
+Analysis Date:          2025-12-16T09:22:16.814847
+
+🏆 TOP 20 MOST DEMANDED SKILLS
+----------------------------------------------------------------------
+ 1. komunikatif                        20 jobs ( 20.0%)
+ 2. microsoft office                   13 jobs ( 13.0%)
+ 3. bimbingan anak berkebutuhan khusus      7 jobs (  7.0%)
+ 4. microsoft excel                     5 jobs (  5.0%)
+ 5. menangani anak - anak berkebutuhan khusus      5 jobs (  5.0%)
+ 6. dalam mengajar                      5 jobs (  5.0%)
+ 7. sales                               4 jobs (  4.0%)
+ 8. penjualan                           4 jobs (  4.0%)
+ 9. canva                               3 jobs (  3.0%)
+10. accurate                            3 jobs (  3.0%)
+11. microsoft ms word                   3 jobs (  3.0%)
+12. capcut                              3 jobs (  3.0%)
+13. sketchup                            3 jobs (  3.0%)
+14. adobe illustrator                   2 jobs (  2.0%)
+15. photoshop                           2 jobs (  2.0%)
+16. negosiasi                           2 jobs (  2.0%)
+17. adobe photoshop                     2 jobs (  2.0%)
+18. e-commerce                          2 jobs (  2.0%)
+19. e-faktur                            2 jobs (  2.0%)
+20. critical and analytical thinking      2 jobs (  2.0%)
+
+📂 CATEGORY DISTRIBUTION
+----------------------------------------------------------------------
+uncategorized             243 skills,    316 total
+soft_skill                  3 skills,      6 total
+programming_language        5 skills,      6 total
+tools                       4 skills,      5 total
+frontend                    2 skills,      2 total
+database                    1 skills,      1 total
+
+🔗 TOP 10 SKILL PAIRS
+----------------------------------------------------------------------
+ 1. bimbingan anak berkebutuhan khusus + dalam mengajar       (   5 jobs)
+ 2. bimbingan anak berkebutuhan khusus + menangani anak - anak berkebutuhan khusus (   5 jobs)
+ 3. dalam mengajar       + menangani anak - anak berkebutuhan khusus (   5 jobs)
+
+======================================================================

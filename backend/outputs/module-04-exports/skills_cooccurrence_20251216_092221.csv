@@ -1,0 +1,4 @@
+skill_1,skill_2,cooccurrence_count,lift,confidence
+bimbingan anak berkebutuhan khusus,dalam mengajar,5,14.286,0.714
+bimbingan anak berkebutuhan khusus,menangani anak - anak berkebutuhan khusus,5,14.286,0.714
+dalam mengajar,menangani anak - anak berkebutuhan khusus,5,20.0,1.0
