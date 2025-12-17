@@ -79,6 +79,13 @@ job-market-intelligence-platform/
 │   │   ├── test_nlp.py
 │   │   └── test_analytics.py
 │   │
+│   ├── outputs/
+│   │   ├── huggingface/            # Output for huggingface
+│   │   ├── module-/                # Output for module
+│   │
+│   ├── scripts/ 
+│   │   ├── module-/                # script for module
+│   │
 │   ├── data/                         # Data storage
 │   │   ├── raw/                      # Raw data
 │   │   ├── processed/                # Processed data
